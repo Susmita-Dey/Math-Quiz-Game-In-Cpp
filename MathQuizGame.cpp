@@ -5,7 +5,7 @@ using namespace std;
 void easyMath()
 {
     int ans[5], skipCount = 0, ansCount = 0, correctAns = 0;
-    int answer[5] = {1600, 779, 67, 120, 121};
+    int answer[5] = {1600, 779, 69, 120, 121};
     string ques[5] = {
         "Q1) 40x40=___?", "Q2) 999-33-87-100=___?", "Q3) What is 22+47?",
         "Q4) To stay in a hotel costs $40 per night. You stay for three nights and check out on the fourth morning. How much will you pay?", "Q5) 120+240+400-240-400+1=___?"};
